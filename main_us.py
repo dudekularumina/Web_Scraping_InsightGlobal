@@ -17,14 +17,6 @@ dirname = os.path.dirname(__file__)
 # from fuzzywuzzy import fuzz
 
 
-mydb = pymysql.connect(
-    # host="69.216.19.140",
-    host="50.28.107.39",
-    user="narvee",
-    port=3306,
-    password="Atc404$",
-    database="narvee_ATS"
-)
 
 
 # mydb = pymysql.connect(
